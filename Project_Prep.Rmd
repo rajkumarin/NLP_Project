@@ -1,0 +1,21 @@
+---
+title: "ANLY_520 Project"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## List of group members
+- Bhavesh Shah
+- Kshitji Ramesh Deshpande
+- Rajkumar Dhanapal
+
+## Two background sources
+- The Enron-Spam dataset ( http://nlp.cs.aueb.gr/software_and_datasets/Enron-Spam/ )
+- Amazon Reviews ( https://www.kaggle.com/kritanjalijain/amazon-reviews/metadata )
+
+## Two potential hypotheses
+- The email can be classified as spam or otherwise using text classification and languagae analysis
+- The 1-5 star rating on an Amazon product review can be predicted from the text of the review
